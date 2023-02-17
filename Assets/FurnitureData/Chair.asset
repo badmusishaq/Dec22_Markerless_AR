@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe8aaa48f9a420d44b8431743d4e64e1, type: 3}
+  m_Name: Chair
+  m_EditorClassIdentifier: 
+  furnitureName: ALU Chair
+  furnitureIcon: {fileID: 2800000, guid: da0a688f9a1ece54192891e77c5fc6a6, type: 3}
+  furniturePrefab: {fileID: 7793863224438599995, guid: efd36d66f5b535043aa8a7be726074c7,
+    type: 3}
